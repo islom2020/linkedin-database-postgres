@@ -1,0 +1,2 @@
+#n:add_wallet
+#i:(varchar,varchar,integer,integer,integer,varchar,integer,integer)

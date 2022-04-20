@@ -1,0 +1,2 @@
+#n:add_transaction_info
+#i:(bigint,varchar)

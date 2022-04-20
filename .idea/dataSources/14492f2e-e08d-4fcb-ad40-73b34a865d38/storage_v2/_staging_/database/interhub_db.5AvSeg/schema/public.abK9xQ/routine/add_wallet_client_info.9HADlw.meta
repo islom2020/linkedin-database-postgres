@@ -1,0 +1,2 @@
+#n:add_wallet_client_info
+#i:(varchar,varchar,varchar,varchar,varchar,varchar,varchar,varchar,varchar,varchar,varchar,varchar,varchar,varchar,integer,integer,varchar,integer,varchar,varchar,varchar,varchar,varchar,varchar,integer,integer)
